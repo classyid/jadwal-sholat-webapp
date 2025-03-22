@@ -1,6 +1,6 @@
 # Jadwal Sholat WebApp
 
-![Jadwal Sholat WebApp](https://via.placeholder.com/800x400?text=Jadwal+Sholat+WebApp)
+![Jadwal Sholat WebApp](https://blog.classy.id/upload/gambar_berita/d789516f8469d395fef227abe39f52b4_20250322150300.jpg)
 
 Aplikasi web jadwal sholat responsive yang dibuat dengan Google Apps Script, Tailwind CSS, dan Font Awesome. Aplikasi ini memungkinkan pengguna mencari jadwal sholat berdasarkan kota di Indonesia dengan tampilan yang menarik dan informatif.
 
@@ -23,14 +23,14 @@ Aplikasi web jadwal sholat responsive yang dibuat dengan Google Apps Script, Tai
 
 ## 📸 Screenshot
 
-### Tampilan Mobile
-![Tampilan Mobile](https://via.placeholder.com/300x600?text=Mobile+View)
+### Tampilan Countdown
+![Tampilan Mobile](https://blog.classy.id/upload/gambar_berita/1f29104d1a4edb0c82c04785ddf49504_20250322152527.png)
 
 ### Tampilan Desktop
-![Tampilan Desktop](https://via.placeholder.com/800x450?text=Desktop+View)
+![Tampilan Desktop](https://blog.classy.id/upload/gambar_berita/d789516f8469d395fef227abe39f52b4_20250322150300.jpg)
 
 ### Hasil Pencarian
-![Hasil Pencarian](https://via.placeholder.com/800x450?text=Search+Results)
+![Hasil Pencarian](https://blog.classy.id/upload/gambar_berita/29a7671d8b8a2701a79791a4171a2a53_20250322152344.png)
 
 ## 🚀 Deployment
 
