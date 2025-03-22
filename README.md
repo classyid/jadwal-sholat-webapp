@@ -1,4 +1,3 @@
-```markdown
 # Jadwal Sholat WebApp
 
 ![Jadwal Sholat WebApp](https://via.placeholder.com/800x400?text=Jadwal+Sholat+WebApp)
@@ -38,7 +37,6 @@ Aplikasi web jadwal sholat responsive yang dibuat dengan Google Apps Script, Tai
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/classyid/jadwal-sholat-webapp.git
-```
 
 ### 2. Deployment ke Google Apps Script
 1. Buka [Google Apps Script](https://script.google.com/)
